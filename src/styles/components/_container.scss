@@ -1,0 +1,5 @@
+.container{
+    max-width: 60rem;
+    margin: 0 auto; //the browser is 70rems wide. so we gonna distriute the rest 10rem to left and the right by setting it to auto
+    padding: 0 $m-size;
+}
